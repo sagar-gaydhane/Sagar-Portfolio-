@@ -1,5 +1,5 @@
 # Sagar Gaydhane — Portfolio
-
+<!-- 
 Android Developer portfolio built with React + Vite + Tailwind CSS.
 
 ## Setup
@@ -26,4 +26,4 @@ Update your real contact details in `src/data/portfolioData.js`:
 - `linkedin`
 - `github`
 
-All resume content (skills, projects, experience) also lives in that one file — edit it there and every section updates automatically.
+All resume content (skills, projects, experience) also lives in that one file — edit it there and every section updates automatically. -->
