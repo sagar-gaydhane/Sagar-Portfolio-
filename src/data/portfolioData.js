@@ -9,10 +9,10 @@ export const profile = {
     'AI Integration Engineer',
   ],
   location: 'Nagpur, Maharashtra, India',
-  email: 'your.email@gmail.com',
-  phone: '+91 XXXXXXXXXX',
+  email: 'gaydhanes65@gmail.com',
+  phone: '+91 7038012890',
   linkedin: 'http://www.linkedin.com/in/sagar-gaydhane',
-  github: 'https://github.com/yourusername',
+  github: 'https://github.com/sagar-gaydhane',
   summary:
     "Android Developer with 3+ years of professional experience building production-grade Android and cross-platform mobile applications. Proficient in Kotlin, MVVM + Clean Architecture, Jetpack components, and reactive programming with Coroutines & Flow. Hands-on experience with AI feature integrations, real-time systems (WebSockets, Firebase), payment gateways, wearable APIs (Apple Watch & Android Watch), and cross-platform development (React Native). Strong team collaborator with a product-first mindset.",
   stats: [
